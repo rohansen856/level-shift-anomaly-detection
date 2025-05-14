@@ -1,0 +1,6 @@
+pandas
+setuptools
+adtk
+Pillow
+plotly
+scikit_learn
