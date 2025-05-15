@@ -11,6 +11,14 @@ The two implemented anomaly detection algorithms:
 
 Goal: To detect sudden drops or increases in data values, enabling us to provide timely alerts.
 
+Command:
+```sh
+python3 level_shift_anomaly.py  
+```
+
+Output: An interactive graph plot like the one given below should open up in the browser
+![anomaly_level_shift](https://github.com/user-attachments/assets/fc11bb08-a5a6-45f8-bce9-8437fd9d73fd)
+
 Reference: [adtk](https://adtk.readthedocs.io/en/stable/)
 
 ### 2. Isolation forest anomaly detection
